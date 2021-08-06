@@ -1,0 +1,14 @@
+{
+	"id": "d3dd95d9-96d1-4969-827e-9022a5eaf319",
+	"values": [
+		{
+			"key": "id",
+			"value": "53",
+			"enabled": true
+		}
+	],
+	"name": "AbateceAi Globals",
+	"_postman_variable_scope": "globals",
+	"_postman_exported_at": "2021-08-06T21:34:13.667Z",
+	"_postman_exported_using": "Postman/8.10.0-210804-1710"
+}
